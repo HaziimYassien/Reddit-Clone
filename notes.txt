@@ -1,0 +1,13 @@
+    <!-- <div id="reddit-header">
+      <img src="" alt="reddit logo" />
+      <p>reddit</p>
+      <p>Home</p>
+      <p>search bar</p>
+      <p>popular</p>
+      <p>messages</p>
+      <p>notifcations</p>
+      <p>create post</p>
+      <p>Advertise</p>
+      <p>Shop Avatars</p>
+      <p>hazem_yassien</p>
+    </div> -->
